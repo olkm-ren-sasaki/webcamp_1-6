@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+div {
+  height: 200px;
+  width: 100%;
+}
+.img1 {
+  background-image: url(img/box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.img2 {
+  background-image: url(img/box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.img3 {
+  background-image: url(img/box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.img4 {
+  background-image: url(img/box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
